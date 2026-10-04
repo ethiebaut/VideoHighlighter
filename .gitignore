@@ -93,6 +93,7 @@ cache/
 training/runs/
 
 __pycache__/
+venv/
 
 # Update-check state (last check, skipped version) — per install, never shared.
 update_state.json
